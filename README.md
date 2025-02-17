@@ -1,10 +1,3 @@
-🚀 **AI-Powered Real-Time Financial Analytics**
-
----
-
-### **README.md**
-
-````markdown
 # AI-Powered Real-Time Financial Analytics 🚀📈
 
 This repository contains a full-stack AI-powered financial analytics pipeline that ingests, processes, and analyzes real-time stock market data using Kafka, PySpark, DuckDB, and machine learning models. The system provides real-time stock price forecasting and sentiment analysis of financial news, accessible via an API and visualized through a Streamlit dashboard.
@@ -46,6 +39,7 @@ This repository contains a full-stack AI-powered financial analytics pipeline th
 git clone https://github.com/your-username/ai_financial_analytics.git
 cd ai_financial_analytics
 ```
+
 ````
 
 ### **2️⃣ Install Dependencies**
@@ -154,7 +148,7 @@ This project is open-source and available under the [Apache 2.0 License](LICENSE
 
 ---
 
-🔹 **Developed with ❤️ by [Your Name/Team]**  
+🔹 **Developed with ❤️ by [Your Name/Team]**
 📧 Contact: contact@johnferreralvarado.com
 
 🌐 [Website](https://johnferreralvarado.com/)
@@ -162,3 +156,4 @@ This project is open-source and available under the [Apache 2.0 License](LICENSE
 ```
 
 ```
+````
