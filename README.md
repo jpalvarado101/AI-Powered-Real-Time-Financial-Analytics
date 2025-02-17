@@ -1,9 +1,3 @@
-Here's a structured and professional GitHub README for your project along with a title:
-
----
-
-### **GitHub Repository Title:**
-
 🚀 **AI-Powered Real-Time Financial Analytics**
 
 ---
