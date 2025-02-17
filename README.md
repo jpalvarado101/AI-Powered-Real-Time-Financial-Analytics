@@ -40,7 +40,7 @@ git clone https://github.com/your-username/ai_financial_analytics.git
 cd ai_financial_analytics
 ```
 
-````
+---
 
 ### **2️⃣ Install Dependencies**
 
@@ -156,4 +156,7 @@ This project is open-source and available under the [Apache 2.0 License](LICENSE
 ```
 
 ```
-````
+
+```
+
+```
