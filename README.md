@@ -1,5 +1,5 @@
 # AI-Powered Real-Time Financial Analytics 🚀📈
-
+🚨 **License Notice**🚨
 This repository contains a full-stack AI-powered financial analytics pipeline that ingests, processes, and analyzes real-time stock market data using Kafka, PySpark, DuckDB, and machine learning models. The system provides real-time stock price forecasting and sentiment analysis of financial news, accessible via an API and visualized through a Streamlit dashboard.
 
 ## 📌 Features
@@ -144,7 +144,11 @@ The project includes a GitHub Actions workflow (`deployment/ci_cd_pipeline.yml`)
 
 ## 📄 License
 
-This project is open-source and available under the [Apache 2.0 License](LICENSE).
+🚨 **License Notice:**  
+This project is under a **strict Read-Only License**.  
+✔️ You may **view** the code, but  
+❌ You **cannot copy, modify, use, or distribute** any part of it.  
+Violations may result in legal action. See the [LICENSE](LICENSE) file for details.
 
 ---
 
