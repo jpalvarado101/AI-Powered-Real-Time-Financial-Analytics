@@ -154,7 +154,6 @@ Violations may result in legal action. See the [LICENSE](LICENSE) file for detai
 
 ---
 
-🔹 **Developed with ❤️ by [Your Name/Team]**
 📧 Contact: contact@johnferreralvarado.com
 
 🌐 [Website](https://johnferreralvarado.com/)
