@@ -1,0 +1,17 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (if not needed in repo)
+data/*.parquet
+local_snowflake.db
+
+# Docker
+*.log

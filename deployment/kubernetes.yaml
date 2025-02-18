@@ -1,0 +1,32 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: stock-ai-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: stock-ai
+  template:
+    metadata:
+      labels:
+        app: stock-ai
+    spec:
+      containers:
+      - name: stock-ai-container
+        image: stock-ai:latest
+        ports:
+        - containerPort: 5001
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: stock-ai-service
+spec:
+  selector:
+    app: stock-ai
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 5001
+  type: NodePort
