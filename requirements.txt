@@ -1,0 +1,25 @@
+# Data Ingestion
+kafka-python==2.0.2
+yfinance==0.2.18
+psycopg2-binary==2.9.6
+
+# Data Processing
+pandas==1.5.3
+pyspark==3.3.1
+duckdb==0.8.1
+
+# AI & Machine Learning
+numpy==1.23.5
+tensorflow==2.12.0
+scikit-learn==1.2.2
+transformers==4.26.1
+
+# API & Web Frameworks
+Flask==2.2.3
+
+# Visualization
+streamlit==1.24.1
+plotly==5.13.1
+
+# Utility
+requests==2.28.2
